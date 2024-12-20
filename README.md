@@ -1,1 +1,3 @@
 # simlinker
+
+A script which maintains a set of links in one or more folders to other folders...
